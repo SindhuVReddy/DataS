@@ -5,63 +5,64 @@ Summary
 This folder combines all of the practice exercises performed while earning a certificate from Springboard (see <a href= https://www.springboard.com/workshops/data-science-career-track> link </a> for more details). 
 
 Files
-LICENSE
-Mode Analytics Case Study.ipynb
-README.md	
-pyspark_exercise.ipynb
-Hospital_Readmit	
------ sliderule_dsi_inferential_statistics_exercise_3.ipynb
------ data
----------- README.md	
-----------cms_hospital_readmissions.csv
-clustering
------ Mini_Project_Clustering.ipynb	
------ WineKMC.xlsx
-human_temp
------ sliderule_dsi_inferential_statistics_exercise_1.ipynb
------ data
----------- human_body_temperature.csv
-linear_regression
------ Mini_Project_Linear_Regression.ipynb
------ Images
----------- conditionalmean.png
----------- cs109gitflow3.png
----------- shuttle.png
-logistic_regression	
------ data
----------- 01_heights_weights_genders.csv
------ images	
-----------	bias.png	
----------- complexity-error-plot.png	
----------- complexity-error-reg.png	
----------- data.png	
----------- knn1.png	
----------- knn2.png	
----------- linreg.png	
----------- linsep.png	
----------- onelinesplit.png	
----------- pcanim.gif	
----------- reshape.jpg	
----------- sklearn2.jpg	
----------- sklearntrans.jpg	
----------- train-cv2.png	
----------- train-cv3.png	
----------- train-test.png	
----------- train-validate-test-cont.png	
----------- train-validate-test.png	
----------- train-validate-test3.png
------ Mini_Project_Logistic_Regression.ipynb
-naive_bayes	
------	Mini_Project_Naive_Bayes.ipynb	
------ callibration.png	
------ critics.csv	
------ terms.png	
------ terms2.png	
------ vsm.png
-racial_disc	
------ sliderule_dsi_inferential_statistics_exercise_2.ipynb
------ data
----------- us_job_market_discrimination.dta
+
+LICENSE <br>
+Mode Analytics Case Study.ipynb <br>
+README.md	<br>
+pyspark_exercise.ipynb <br>
+Hospital_Readmit	<br>
+----- sliderule_dsi_inferential_statistics_exercise_3.ipynb <br>
+----- data <br>
+---------- README.md	<br>
+----------cms_hospital_readmissions.csv <br>
+clustering <br>
+----- Mini_Project_Clustering.ipynb	<br>
+----- WineKMC.xlsx <br>
+human_temp <br>
+----- sliderule_dsi_inferential_statistics_exercise_1.ipynb <br>
+----- data <br>
+---------- human_body_temperature.csv <br>
+linear_regression <br>
+----- Mini_Project_Linear_Regression.ipynb <br>
+----- Images <br>
+---------- conditionalmean.png <br>
+---------- cs109gitflow3.png <br>
+---------- shuttle.png <br>
+logistic_regression	<br>
+----- data <br>
+---------- 01_heights_weights_genders.csv <br>
+----- images	<br>
+----------	bias.png	<br>
+---------- complexity-error-plot.png	<br>
+---------- complexity-error-reg.png	<br>
+---------- data.png	<br>
+---------- knn1.png	<br>
+---------- knn2.png	<br>
+---------- linreg.png	<br>
+---------- linsep.png	<br>
+---------- onelinesplit.png	<br>
+---------- pcanim.gif	<br>
+---------- reshape.jpg	<br>
+---------- sklearn2.jpg	<br>
+---------- sklearntrans.jpg	<br>
+---------- train-cv2.png	<br>
+---------- train-cv3.png	<br>
+---------- train-test.png	<br>
+---------- train-validate-test-cont.png	<br>
+---------- train-validate-test.png	<br>
+---------- train-validate-test3.png <br>
+----- Mini_Project_Logistic_Regression.ipynb <br>
+naive_bayes	<br>
+-----	Mini_Project_Naive_Bayes.ipynb	<br>
+----- callibration.png	<br>
+----- critics.csv	<br>
+----- terms.png	<br>
+----- terms2.png <br>
+----- vsm.png <br>
+racial_disc	<br>
+----- sliderule_dsi_inferential_statistics_exercise_2.ipynb <br>
+----- data <br>
+---------- us_job_market_discrimination.dta <br>
 
 License
 
